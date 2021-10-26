@@ -1,4 +1,3 @@
-// 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙄𝙩𝙨𝙈𝙚𝙑𝙖𝙡𝙡 
 const {
   WAConnection: _WAConnection,
   MessageType,
